@@ -1,0 +1,10 @@
+scikit-learn
+numpy
+pandas
+dill
+androguard @ git+https://github.com/androguard/androguard@v3.4.0a1
+psutil
+validators
+deap
+scipy
+numpy
