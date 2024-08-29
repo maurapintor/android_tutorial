@@ -8,3 +8,4 @@ validators
 deap
 scipy
 numpy
+notebook
