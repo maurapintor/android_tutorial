@@ -17,7 +17,10 @@ Before running the notebook, you need to complete the following steps.
 ## Example
 
 Run the example by starting the jupyter server.
+Note that this is a tutorial where you have to write parts of the code to make it work. 
 
 ```bash
-jupyter notebook android_challenge.ipynb
+jupyter notebook android_challenge_tutorial.ipynb
 ```
+
+You can also check the solution at https://github.com/maurapintor/android_tutorial/blob/main/android_challenge.ipynb
