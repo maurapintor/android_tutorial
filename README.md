@@ -1,5 +1,8 @@
 # Tutorial for the Android Robust Malware Competition
 
+Announcement: We are about to release a public challenge at one of the main conferences in ML and Security.
+Stay tuned for future updates (registering to the [challenge platform](https://benchmarks.elsa-ai.eu/?ch=6&com=introduction) is enough to stay updated).
+
 ## Preparation
 
 Before running the notebook, you need to complete the following steps.
